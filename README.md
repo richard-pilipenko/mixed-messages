@@ -1,2 +1,2 @@
 # mixed-messages
-node.js console app that generates random messages each time it is run
+node.js console app that generates a random F1 Team with drivers and team principals each time it is run.
